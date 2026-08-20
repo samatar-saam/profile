@@ -1,29 +1,29 @@
-# 👋 Hi, I'm Samatar Mohamed
+ 👋 Hi, I'm Samatar Mohamed
 
-### 💻 Software Engineering Student | Web Developer | Aspiring Full-Stack Developer
+ 💻 Software Engineering Student | Web Developer | Aspiring Full-Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate Software Engineering student focused on building practical, user-friendly, and impactful digital solutions.
 
-I enjoy turning ideas into real projects while continuously improving my skills in **web development, programming, databases, mobile development, and software engineering**.
+I enjoy turning ideas into real projects while continuously improving my skills in web development, programming, databases, mobile development, and software engineering
 
 ---
 
-## 🚀 About Me
+ 🚀 About Me
 
 * 🎓 Software Engineering Student
 * 💻 Passionate about Web & Software Development
-* 🌱 Currently improving my skills in **Python, JavaScript, React, Flask & Flutter**
-* 🗄️ Interested in **SQL, SQLite & Backend Development**
-* 🔧 Learning professional development workflows with **Git & GitHub**
-* 🎯 Goal: Become a professional **Full-Stack Software Engineer**
+* 🌱 Currently improving my skills in Python, JavaScript, React, Flask & Flutter**
+* 🗄️ Interested in SQL, SQLite & Backend Development
+* 🔧 Learning professional development workflows with Git & GitHub
+* 🎯 Goal: Become a professional Full-Stack Software Engineer
 * 💡 I enjoy building projects that solve real-world problems
 * 📚 Always learning, experimenting, and building
 
----
 
-## 🛠️ Tech Stack
 
-### 💻 Languages
+🛠️ Tech Stack
+
+ 💻 Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
